@@ -3,7 +3,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 <br>
 ## Attribute Information:
 <br>
-### Input variables (based on physicochemical tests):
+Input variables (based on physicochemical tests):
 <br>
 fixed acidity
 <br>
