@@ -3,7 +3,7 @@ These datasets can be viewed as classification or regression tasks. The classes 
 <br>
 ## Attribute Information:
 <br>
-Input variables (based on physicochemical tests):
+### Input variables (based on physicochemical tests):
 <br>
 fixed acidity
 <br>
@@ -25,6 +25,6 @@ pH
 <br>
 sulphates
 <br>
-alcohol Output variable (based on sensory data):
+### alcohol Output variable (based on sensory data):
 <br>
 quality (score between 0 and 10)
